@@ -1,0 +1,43 @@
+nav {
+    background-color: black;
+}
+
+.nav-link {
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.header-image {
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.header-caption {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    color: white;
+    text-shadow: 2px 2px #000;
+}
+
+.usp-icons {
+    height: 55px;
+    width: 55px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 25px 40px;
+    margin-top: 25px;
+}
+
+.social-footer-item {
+    display: inline-block;
+}
